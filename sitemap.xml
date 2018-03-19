@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://laymansguide.github.io/site/dev-404-page/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://laymansguide.github.io/site/offline-plugin-app-shell-fallback/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://laymansguide.github.io/site/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://laymansguide.github.io/site/the-butterfly-of-the-edge</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://laymansguide.github.io/site/the-fairys-witches</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://laymansguide.github.io/site/behind-googles-search-engine</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://laymansguide.github.io/site/tags/programming/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://laymansguide.github.io/site/tags/more-tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://laymansguide.github.io/site/tags/testing/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://laymansguide.github.io/site/tags/another-one/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://laymansguide.github.io/site/tags/stuff/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://laymansguide.github.io/site/tags/other/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://laymansguide.github.io/site/tags/information-retrival/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://laymansguide.github.io/site/tags/google/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://laymansguide.github.io/site/tags/others/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://laymansguide.github.io/site/categories/tech/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://laymansguide.github.io/site/categories/something/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://laymansguide.github.io/site/author/admin/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://laymansguide.github.io/site/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>
